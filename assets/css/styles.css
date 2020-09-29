@@ -16,6 +16,13 @@ body{
 .black{
   color: #000000;
 }
+.boxblue{
+  fill: rgb(93, 187, 184);
+}
+.boxwhtgry{
+  fill: rgb(223, 224, 213);
+}
+
 h1{
   font-weight: 700;
   font-size: 8.561rem;
