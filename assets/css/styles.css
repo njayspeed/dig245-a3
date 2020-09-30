@@ -4,7 +4,7 @@ body{
   font-family: 'Biryani', sans-serif;
 }
 .container{
-  background-color: #000000;
+  background-color: #010005;
 }
 
 .whtgrey{
@@ -21,6 +21,10 @@ body{
 }
 .boxwhtgry{
   fill: rgb(223, 224, 213);
+}
+.boxblk{
+  fill: rgb(1, 0, 5);
+  transform: translate(50%) rotate(45deg);
 }
 
 h1{
